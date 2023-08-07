@@ -1,0 +1,14 @@
+{
+    "clientVersionCode": 1,
+    "clientSampVersionCode": 4,
+    "gameFilesVersionCode": 11,
+    "URL_GAME_FILES" : "http://147.50.240.226/SAMP2023.zip",
+    "URL_GAME_FILES_UPD" : "http://147.50.240.226/files_upd.zip",
+    "URL_VK": "https://vk.com/",
+    "URL_DISCORD": "https://discord.gg/F8adekvCFg",
+    "URL_YOUTUBE": "",
+    "URL_FORUM": "",
+    "URL_DONATE": "",
+    "URL_CLIENT": "http://147.50.240.226/launcher.apk",
+    "URL_CLIENTSAMPAPK": "http://147.50.240.226/client.apk"
+}
